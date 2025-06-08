@@ -1,94 +1,101 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Nethmi Imasha Arachchci – Software Engineer</h1>
+<h1 align="center">
+  Hi there! 👋 I'm <span style="color:#00BFFF">Nethmi Imasha Arachchci</span> <br/>
+  <em>Software Engineer | Problem Solver | Tech Explorer</em>
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"/> 
+</p>
 
 <div align="center">
-  <img src="./your-banner.png" alt="banner"/>
+  <img src="./your-banner.png" alt="banner" width="100%"/>
 </div>
-
-<br/>
-
-## 👩‍💻 About Me:
-
-<img src="./dev-girl.gif" height="290px" align="right" />
-
-I'm an enthusiastic **Software Developer** with a strong passion for coding, problem-solving, and taking on new challenges. I specialize in **mobile** and **web development**, and I'm always eager to learn new technologies and improve my skills.
-
-- 💡 Always learning | 🤝 Team player | 🧩 Challenge seeker | 💻 Tech enthusiast  
-- 🌱 Currently exploring **Cloud, Cybersecurity**, and **Analytics**  
-- 📱 Passionate about creating sleek, responsive mobile and web apps  
-- 🔭 Working on exciting full-stack & analytics projects  
-- 💬 Let's talk about tech, UI/UX, or building scalable systems!  
-- ⚡ Fun fact: I debug better at night 🌙  
 
 ---
 
-## 🧠 Skillset Breakdown:
+## 👩‍💻 About Me
 
-### 🛠️ Full-Stack Development
-Comprehensive web development expertise spanning both frontend and backend technologies. I create scalable, maintainable applications with modern frameworks and best practices.
+<img src="./dev-girl.gif" height="280px" align="right" />
 
-**Tech Tags:** `JavaScript`, `TypeScript`, `React`, `Node.js`, `Python`, `APIs`, `Microservices`
+I'm an enthusiastic **Software Developer** with a deep passion for **coding**, **problem-solving**, and embracing **new challenges**. I specialize in **mobile** and **web development** and continuously explore new technologies to keep evolving as an engineer.
+
+- 💡 Always learning | 🤝 Team player | 🧩 Challenge seeker | 💻 Tech enthusiast  
+- 🌱 Currently exploring **Cloud Infrastructure**, **Cybersecurity**, and **Data Analytics**  
+- 📱 Building sleek, responsive apps that scale  
+- 🔭 Actively working on full-stack and analytics projects  
+- 💬 Let's talk about tech, UX/UI, or building scalable systems  
+- ⚡ Fun fact: I debug better at night 🌙
+
+---
+
+## 🧠 Skillset Overview
+
+### 🚀 Full-Stack Development
+From front-end flair to back-end robustness.
+
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `Python` · `REST APIs` · `Microservices`
 
 ---
 
 ### 📊 Data Analytics & BI
-Transforming raw data into actionable insights through advanced analytics and BI.
+Making data speak.
 
-**Tech Tags:** `Python`, `SQL`, `Power BI`, `Tableau`, `Statistics`, `Machine Learning`, `Data Viz`
+`Python` · `SQL` · `Power BI` · `Tableau` · `Statistics` · `Data Visualization` · `ML Basics`
 
 ---
 
 ### 🔐 Cybersecurity
-Proactive security strategies including assessments, testing, and compliance.
+Security first — always.
 
-**Tech Tags:** `Penetration Testing`, `SIEM`, `Vulnerability Assessment`, `Security Auditing`, `Compliance`
+`Penetration Testing` · `SIEM` · `Security Audits` · `Compliance` · `Vulnerability Assessment`
 
 ---
 
 ### ✅ Quality Assurance
-Ensuring software excellence through automation and rigorous testing processes.
+Crafting bug-free, performant systems.
 
-**Tech Tags:** `Test Automation`, `Selenium`, `Jest`, `Performance Testing`, `API Testing`, `CI/CD`
-
----
-
-### 🎨 Frontend Development
-Engaging, responsive UIs built with cutting-edge design principles.
-
-**Tech Tags:** `React`, `Vue.js`, `Angular`, `CSS3`, `HTML5`, `Responsive Design`, `PWA`
+`Selenium` · `Jest` · `Test Automation` · `Performance Testing` · `API Testing` · `CI/CD`
 
 ---
 
-### 🖥️ Backend Development
-Scalable, secure APIs and microservices with optimized performance.
+### 🎨 Frontend Design
+Intuitive, responsive, and elegant interfaces.
 
-**Tech Tags:** `Node.js`, `Express`, `FastAPI`, `Django`, `PostgreSQL`, `MongoDB`, `Redis`
+`React` · `Vue.js` · `Angular` · `CSS3` · `HTML5` · `PWA` · `Responsive Design`
+
+---
+
+### 🖥️ Backend Engineering
+Fast, scalable, and secure services.
+
+`Node.js` · `Express.js` · `Django` · `FastAPI` · `MongoDB` · `PostgreSQL` · `Redis`
 
 ---
 
 ### 🗃️ Database Management
-Efficient data models and optimized query performance across SQL/NoSQL systems.
+Reliable, optimized data systems.
 
-**Tech Tags:** `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, `Database Design`, `Query Optimization`
+`SQL` · `NoSQL` · `MySQL` · `MongoDB` · `PostgreSQL` · `Database Design`
 
 ---
 
-### ☁️ Cloud Infrastructure
-Robust DevOps practices and scalable cloud-based deployments.
+### ☁️ Cloud & DevOps
+Scaling with confidence.
 
-**Tech Tags:** `AWS`, `Azure`, `Docker`, `Kubernetes`, `Terraform`, `CI/CD`, `Monitoring`
+`AWS` · `Azure` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD Pipelines`
 
 ---
 
 ### 🧑‍🎨 UI/UX Design
-Crafting modern, intuitive interfaces focused on user experience.
+Interfaces users love.
 
-**Tech Tags:** `Figma`, `UI Design`, `Prototyping`, `Design Systems`
+`Figma` · `UI Design` · `Prototyping` · `Wireframing` · `Design Systems`
 
 ---
 
-## 🔧 Tools & Technologies:
+## 🧰 Tools & Tech
 
-<p>
+<p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
@@ -103,26 +110,16 @@ Crafting modern, intuitive interfaces focused on user experience.
 
 ---
 
-## 🌐 Connect With Me:
+## 🌐 Let's Connect!
 
-<p>
-  <a href="https://your-portfolio.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://your-blog.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/imashaarachchi-23a6482b2" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:imashaarachchi3779@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-website.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-## ☕ Support Me:
-
-<a href="https://www.buymeacoffee.com/yourname" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
-
----
-
-## 📈 GitHub Stats:
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=default" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername" />
-</div>
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> – Cory House
+</p>
