@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Nethmi+Imasha+Arachchi;Software+Engineer+%7C+Problem+Solver;Mobile+%26+Web+Developer;Always+Learning+Something+New!&center=true&size=30&color=00BFFF&width=600">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Nethmi+Imasha+Arachchi;Software+Engineer+%7C+Problem+Solver;Full+Stack+Developer;Mobile+%26+Web+Developer;Always+Learning+Something+New!&center=true&size=30&color=00BFFF&width=700">
 
 </h1>
 
@@ -17,7 +17,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="320px" align="right" />
+<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" height="320px" align="right" />
 
 ```typescript
 const nethmi = {
