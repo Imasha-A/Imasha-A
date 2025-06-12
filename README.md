@@ -16,11 +16,9 @@
 ---
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
-<div align="right">
-  <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" style="max-width: 100%; height: auto;" width="300"/>
-</div>
+<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" height="265px" align="right" />
 
-```typescript
+typescript
 const nethmi = {
     pronouns: "she/her",
     location: "Sri Lanka 🇱🇰",
@@ -39,6 +37,7 @@ const nethmi = {
 - 💡 **Passionate About**: Clean code, scalable architecture, and user experience
 - 🤝 **Collaboration**: Always open to interesting projects and tech discussions
 - ⚡ **Superpower**: Turning complex problems into elegant solutions
+
 
 ---
 
