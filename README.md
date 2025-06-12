@@ -17,7 +17,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
-<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" height="220px" align="right" />
+<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" height="350px" align="right" />
 
 ```typescript
 const nethmi = {
@@ -25,9 +25,9 @@ const nethmi = {
     location: "Sri Lanka 🇱🇰",
     currentFocus: ["Full-Stack Development", "Data Analytics"],
     role: "Software Engineer",
-    specialization: ["Mobile Development", "Web Development", "Full-Stack Development"],
+    specialization: ["Mobile and Web Development", "Full-Stack Development"],
     workingOn: "Building scalable solutions that make a difference",
-    askMeAbout: ["Flutter","React", "C++", "C#", ".NET", "Node.js", "Databases", "UI/UX"],
+    askMeAbout: ["Flutter","React", "C++", "C#", ".NET", "SQL", "UI/UX"],
     funFact: "I debug better at night 🌙",
     lifePhilosophy: "Code with passion, learn with curiosity 🚀"
 };
