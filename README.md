@@ -23,6 +23,7 @@
  
 ```typescript
 const nethmi = {
+    pronouns: "she/her"
     location: "Sri Lanka 🇱🇰",
     currentFocus: ["Full-Stack Development", "Data Analytics"],
     role: "Software Engineer",
