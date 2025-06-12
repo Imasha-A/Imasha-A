@@ -18,7 +18,7 @@
 
 <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" height="265px" align="right" />
 
-typescript
+```typescript
 const nethmi = {
     pronouns: "she/her",
     location: "Sri Lanka 🇱🇰",
@@ -30,6 +30,7 @@ const nethmi = {
     funFact: "I debug better at night 🌙",
     lifePhilosophy: "Code with passion, learn with curiosity 🚀"
 };
+```
 
 
 - 🎯 **Mission**: Creating innovative solutions that solve real-world problems
